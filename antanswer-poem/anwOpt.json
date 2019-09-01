@@ -1,0 +1,10 @@
+﻿{
+    "version": "0.4",
+    "ads_path": "C:/Users/yenru0/Desktop/antanswer-master/antanswer-master/answer_data_pack/poemer.txt",
+    "interface": "cli",
+    "mode": "antanswer",
+    "detail_mode": "opt_rv",
+    "basic_wil": 18,
+    "basic_recent": 5,
+    "basic_recentValue": 0.7
+}
